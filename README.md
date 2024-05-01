@@ -20,7 +20,7 @@ Indonesia | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany)
    
    - Klik kanan Limbus Company di dalam Steam Library klik "Manage" - "Browse Local File", Lalu Extract zip yang tadi didownload. *Jangan buat folder baru*
 ### 2. Install Modnya
-   - Download filenya pada[Release](../../releases) dan unzip pada folder diatas
+   - Download filenya pada [Release](../../releases) dan unzip pada folder diatas
     
    - [Dev Version](../../actions/workflows/dev.yml) Versi Dev jauh lebih baru
    
