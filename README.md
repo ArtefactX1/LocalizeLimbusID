@@ -14,23 +14,23 @@ LimbusCompany I18N mod
 
 [English](https://github.com/ArtefactX1/LocalizeLimbusID/blob/main/.github/EN_README.md) | ~~American English~~ | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | ~~Swiss~~ | ~~Ελληνικά~~ | ~~Österreich~~
 
-[繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/JoshSnappas/LocalizeLimbusCompanyTH) | [Indonesia](https://github.com/ArtefactX1/LocalizeLimbusID)
+[繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/JoshSnappas/LocalizeLimbusCompanyTH) | **Indonesia**
 </div>
 
 # Install
-### 0. Install [.NET 6.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
+### 0. Unduh [.NET 6.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
 ### 1. Install BepInEx
-   - Download the [BepInEx](https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC)
+   - Unduh [BepInEx](https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC)
    
-   - Right-click Limbus Company on the Steam Library and click "Manage" - "Browse local files", then unzip this zip into the above pop-up folder. **And Do Not Create A New Folder.**
+   - Klik kanan Limbus Company di library steam lalu ke "Manage" - "Browse local files", lalu unzip zipini ke pop-up folder. **Jangan buat folder baru.**
 ### 2. Install Font File
-   - Download TMP font file from[LLC_ChineseFontAsset![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=Update%20Time)](../../../../LLC_ChineseFontAsset) and unzip it in the above folder.
+   - Unduh TMP font file dari[LLC_ChineseFontAsset![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=Update%20Time)](../../../../LLC_ChineseFontAsset) dan unzip itu di folder diatas.
 ### 3. Install i18N mod
-   - Download Full Pack from [Release](../../../releases) and unzip it in the above folder.
+   - Unduh Full Pack dari [Release](../../../releases) dan Extract.
     
-   - [Dev version](../../../actions/workflows/dev.yml) is always the newest.
+   - [Dev version](../../../actions/workflows/dev.yml) Selalu yang terbaru.
    
-   - The mod will be updated within 2~3 days after the game is updated.
+   - Mod akan diupdate setelah 2-3 hari update Limbus.
 ## Who am I? Where am I? What should I do?
    - [The Auto Installer](../../../../LLC_MOD_Installer)
 # Other Things
@@ -40,10 +40,10 @@ LimbusCompany I18N mod
 - [Limbus Company Chinese wiki](https://limbuscompany.huijiwiki.com)
 - [ParaTranz Translation Project](https://paratranz.cn/projects/6860) The latest progress of Localize Limbus Company
 # Disclaimer
-- **Using this mod is free.** 
-- **This mod is allowed by Project Moon.** This mod is whitelisted by Project Moon Offical。You can read [`this post`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70) to learn more.
-- **We use MIT License.** Please go to [`LICENSE`](../LICENSE) or [`CN_LICENSE`](./CN_LICENSE) to learn more.
-# Contributors
+- **Mod ini Gratis.** 
+- **Mod Ini diizinkan Project Moon.** Mod ini diwhitelist oleh Project Moon Offical。kamu bisa baca [`this post`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70) untuk mempelajarinya.
+- **Kami memakai MIT Lisensi.** Tolong pergi ke [`LICENSE`](../LICENSE) atau [`CN_LICENSE`](./CN_LICENSE) untuk mempelajarinya lebih lanjut.
+# Kontributor
 ## This Repo
 <a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
